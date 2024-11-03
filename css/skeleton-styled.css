@@ -91,6 +91,8 @@ html {
 }
 body {
   background-image:url('../images/pasteltrees.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
